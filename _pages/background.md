@@ -9,18 +9,41 @@ sidebar:
 <p><b>External Human-Machine Interfaces (eHMIs)</b>: Interfaces such as LED bands, screens, or loudspeakers that an automated vehicle is equipped with to communicate with people outside the vehicle.</p>"
 ---
 
-Automated Vehicles (AVs) are expected to alter traffic for all road users: from making traffic safer due to less human failure [13] over enabling novel non-driving related tasks within the vehicle [21] to altered communication needs for vulnerable road users such as pedestrians or bicyclists [14].
-
-External Human-Machine Interfaces (eHMIs) are seen as one solution to overcome the current availability of human drivers to engage with the outside world, for example, via gestures, eye-gaze, or speech [12]. Previous work on eHMIs evaluated numerous aspects of this communication: design spaces were created [7], the environment for example in the form of the sidewalk was included in the communication [5], the lack of scalability evaluations were shown [10], construction site scenarios were investigated [6], systematic comparisons were conducted [17], and anthropomorphic characteristics were introduced [3, 4].
-
-Despite this work, the communication between AVs and vulnerable road users, especially with a focus on inclusion, is lacking [8, 9].
-
-## Especially Vulnerable Road Users
-Vulnerable road users (VRUs) can be categorized as pedestrians, cyclists, and motorcyclists as done by the World Health Organization [19]. In general, VRUs are defined as not having a protective outside shield [25].
-
-Holländer et al. [14] argued that VRUs are more diverse in the context of traffic and Human-Computer Interaction and, therefore, defined this group more granular. The first distinguishing factor is motorization (motorcyclist, personal conveyance versus pedestrian, personal conveyance, cyclist). Every defined class can be attributed “especially vulnerable”. This can be due to age or disability [14]. In this workshop, we want to focus on this characteristic and help in making (future) traffic more accessible.
-
-While it is already crucial to make traffic accessible for all people and their abilities, it will only become more important in the future with an aging population and better chances of surviving accidents and diseases. At the same time, the demographic changes already make it difficult to have enough medical and care staff to support patients more than is essential for survival. Thus, inclusive automated traffic is not only the right thing to do from a moral perspective, but also necessary to keep people with disabilities as independent as possible because of a lack of care staff that would be needed to help with basic but important tasks like shopping to getting to a doctor’s appointment.
+In the near future, AVs will alter traffic for all road users: removing human drivers from the car will diminish human failure [17], allow for non-driving related tasks within the vehicle [31], and change communication needs for other road users such as pedestrians or cyclists [21].
 
 ## Automated Vehicles
-With ongoing deployment of AVs [20], traffic is expected to change to be more automated in the near future. Besides technical challenges of automation [15], the interaction with other road users, like pedestrians or cyclists [24] depends on being efficient [16] and trusted [26]. These needs are especially important to empower people with special needs in daily life activities [1, 23], including using shared spaces. Lower access to mobility reduces the possibility to socialize, to have access to health care, to go shopping, or even to gain employment [2, 23]. Therefore, improved automation is seen as a key enabler to enhance participation of people with special needs in everyday life.
+With ongoing deployment of AVs [30], traffic is anticipated to become increasingly automated. 
+Beyond the technical challenges of automation [24], effective interaction with other road users — such as pedestrians or cyclists [36] — must be both efficient [25] and trusted [38]. 
+These factors are especially critical for PSN to engage in daily life activities [2,35], including shared spaces.
+Reduced mobility access can limit social opportunities, healthcare availability, shopping, or even employment [3,33].
+Consequently, improved automation is viewed as a key enabler for enhancing PSN participation in everyday life.
+
+## Communication Between Road Users
+Communication between road users is vital for preventing conflicts and ensuring traffic safety. 
+By employing signals, hand gestures, and eye contact, along with implicit cues such as vehicle behavior (e.g., slowing down), individuals convey intentions that help others anticipate and adapt [26].
+As driving automation replaces human drivers, these communication cues may be diminished.
+To address this gap, researchers propose external human-machine interfaces (eHMIs) [15].
+
+Previous studies have investigated explicit design spaces [11], integrated environmental contexts such as sidewalks [9], identified scalability limitations [14], analyzed use cases like construction sites [10], conducted systematic comparisons [28], and introduced anthropomorphic features [5,7].
+However, existing research still underrepresents inclusive communication practices for AVs and vulnerable road users (VRUs) [12,13,19].
+
+## Focus on Vulnerable Road Users
+VRUs are defined by the World Health Organization as pedestrians, cyclists, and motorcyclists [39] and are generally characterized by the absence of a protective external shield [37].
+However, Holländer et al. [21] advocate a more granular understanding of VRUs in traffic and Human-Machine Interaction contexts.
+Motorization is a primary distinguisher (e.g., motorcyclist or personal conveyance vs. pedestrian or cyclist), and each group may be “especially vulnerable” due to factors such as age or disability [21].
+This workshop focuses on these especially vulnerable segments to promote more accessible (future) traffic systems.
+
+As populations age and survival rates from accidents and diseases increase, accessibility for diverse abilities becomes even more critical.
+Demographic shifts already limit the availability of medical and care personnel, making it difficult to provide significant assistance beyond essential support.
+Thus, inclusive automated traffic is not only ethically imperative but also vital for maintaining the independence of people with disabilities who depend on mobility for crucial tasks such as shopping or reaching medical appointments.
+
+## Design Processes to Support People with Special Needs
+To foster an added value for PSN, processes must be centered around their specific needs [29].
+While the *Universal Design* approach [18] aims to design products accessible for all people, *Inclusive Design* [6] tries to target barriers and implement countermeasures.
+While the outcome of both approaches may be similar, including PSN in research is already a significant challenge.
+For instance, making surveys accessible for both visually [23] and intellectually [20] impaired people increases the effort and expenses for studies.
+
+In recent years, AI was increasingly used to support design processes and the inclusivity of research methods [16], but primarily in education [1,32,34].
+Human-in-the-loop UI optimization (e.g., [4,8,22]) can adapt designs to each user’s preferences, needs, and abilities based on their iterative feedback.
+However, it remains unclear how PSN can provide input, their desired level of involvement, and how they understand a design optimization process with diverse information needs.
+Moreover, in a multimodal driving environment, where multiple road users might interact with the same UI (e.g., eHMI), it remains challenging to determine whose needs a design (optimization) process should prioritize.

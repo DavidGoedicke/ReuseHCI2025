@@ -10,8 +10,10 @@ This may be updated before the workshop.
 {: .align--left .notice--warning  }
 
 ## Location
-The workshop will be held at the "Altes Hauptgebäude" of the TU Darmstadt (S1|03) in room "015". 
-Please check the conference website for the latest information: [muc2022.mensch-und-computer.de](https://muc2022.mensch-und-computer.de/)
+
+[//]: # (The workshop will be held at the "Altes Hauptgebäude" of the TU Darmstadt (S1|03) in room "015".)
+
+Please check the conference website for the latest information: [muc2025.mensch-und-computer.de](https://muc2025.mensch-und-computer.de/)
 
 <!-- {% include gallery caption="Examples for the interactive parts of the workshop: collecting ideas using digital sticky notes in Miro (left) and the result of a quick prototype (right)." %} -->
 
@@ -23,7 +25,9 @@ We will start the workshop with an inspiring session that sets up the remainder 
 We will see invited talks, presentations of position papers and -- depending on the number of accepted submissions -- engage in a yet to be decided activity to get into the right mindset. 
 
 ## 11:00 CEST -- Interactive I ("Exploration")
-We want to establish a common understanding of the key challenges in current AV-VRU research. We will revise open questions from submitted workshop papers to derive topics for a break-out session. The participants will be split into multiple groups that discuss a topic. Possible subjects might be:
+We want to establish a common understanding of the key challenges in current AV-VRU research. 
+We will revise open questions from submitted workshop papers to derive topics for a break-out session.
+The participants will be split into multiple groups that discuss a topic. Possible subjects might be:
 * What are the main blockers hindering researchers to collaboratively work with PSN?
 * How can we better include PSN into development and design?
 * What are inclusive designs in the automotive context that can leverage today’s advanced technology to support PSN?

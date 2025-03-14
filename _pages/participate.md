@@ -13,30 +13,29 @@ sidebar:
 ---
 
 This workshop invites people from different cultures, backgrounds, and affiliations to explore the interplay of automated vehicles and other road users.
-The workshop emphasizes differences in abilities, diversity, and inclusive design solutions for the interaction of AVs and VRUs.
-We welcome researchers and practitioners with interest in accessible technology, automotive user interfaces, 
-interactive technologies for blind or deaf people, people with reduced mobility (PRM), seniors, or people with other impairments themselves.
-We want to foster new ideas and approaches to make the future traffic more accessible, so anyone who wants to discuss ideas is welcome.
+The workshop emphasizes diversity in abilities, diversity, and inclusive or universal design solutions for the interaction of AVs and VRUs.
+
+We welcome
+* Researchers and practitioners with interest in accessible technology, automotive user interfaces, 
+interactive technologies for blind or deaf people, people with reduced mobility (PRM), seniors, or people with other impairments.
+* People from industry interested in inclusion searching for a platform to exchange.
+* Anyone  who wants to discuss to foster new ideas and approaches to make the future traffic more accessible.
+
+> In short: Everyone is Welcome!
 
 ## Participation
 Late submissions will be reviewer by the workshop chairs and planned into the schedule.
 They will <em>not</em> be published in the conference proceedings, but online on this website, with its workshop results.
 
-<blockquote>
-<b>To participate via late submission, please send your title and abstract to <a href="mailto:mathias.haimerl@thi.de">the workshop chair</a>.</b>
-</blockquote>
-
-<s>
 You have three options for participation:
-- Submit a position paper
-- Submit an abstract for your lightning talk
-- Participate without presenting your position
+* Submit a position paper
+* Submit an abstract for your lightning talk or your interactive session
+* Participate without presenting - be invited to discuss!
 
-Please register for the workshop via the [Mensch und Computer 2022 Conftool](https://www.conftool.com/muc2022/).
+Please register for the workshop via the [Mensch und Computer 2025 Conftool](https://www.conftool.com/muc2025/).
 1. After registration, you must validate your e-mail address and are provided with a password.
-1. Scroll down and select **MCI-WS09 - Accessible Automated Automotive Workshop Series (A3WS): Focus External Human-Machine Interfaces (eHMIs)**.
-1. You will be guided through the process.
-</s>
+2. Scroll down and select **MCI-WS09 - Accessible Automated Automotive Workshop Series (A3WS): Focus External Human-Machine Interfaces (eHMIs)**.
+3. You will be guided through the process.
   
 ## Contribution Submission
 Participants are invited to submit three-minute videos or position papers.

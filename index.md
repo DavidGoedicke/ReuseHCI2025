@@ -1,25 +1,34 @@
 ---
 permalink: /
-title: "A3WS – eHMIs"
+title: "A3WS – Accessibility in Mobility"
 #layout: single
 classes: wide
 author_profile: true
 ---
-<p> <span style="font-size: 1.5em">Accessible Automated Automotive Workshop Series (A3WS) – Focus External Human-Machine Interfaces (eHMIs)</span><br/>
-In conjunction with Mensch und Computer 2022, September 4-7</p>
-
+<p> <span style="font-size: 1.5em">Accessible Automated Automotive Workshop Series (A3WS) – Accessibility in Mobility</span><br/>
+In conjunction with Mensch und Computer 2025, August 31 – September 3 | Chemnitz</p>
 
 With modernizing traffic, a rise of automated vehicles (AVs) is expected.
-As AVs potentially need to communicate their intentions, external human-machine interfaces (eHMIs) seem to be an appropriate solution.
+The potential multidirectional communication needs of AVs require solutions for traffic participants including
+cars and trucks, pedestrians and cyclists, infrastructure and mobile entities.
 
-While automotive research progresses quickly, people with special needs (PSN) are vastly underrepresented.
-With an aging population due to demographic changes and advances in medical treatments and with the stride towards equality and accessibility, the needs of these groups also have to be considered in the automotive domain.
+While AVs must convey their intentions, they must also interpret and respond to varying communication cues, 
+which may be visual, auditory, or transmitted via connected data. 
+To address this complexity, AVs must leverage advanced technologies, including pattern recognition, data harmonization,
+and potentially artificial intelligence (AI)-driven solutions.
 
-We provide an inclusive platform for interdisciplinary exchange on current and future topics, especially for academia, industry, and politics.
-This enables different perspectives with particular (but not exclusive) regard to user experience (UX) and psychology, product design, legislative concerns and, thus, support the communication and potentially founding of new topic streams.
-The aim is to create new interdisciplinary networks and collaborations to make future developments on vehicle-to-human (V2H) communication more inclusive.
+Although automotive research advances rapidly, people with special needs (PSN) remains significantly underrepresented.
+Given demographic shifts toward an aging population and broader societal goals of equality and accessibility, 
+it is imperative to integrate the needs of these groups when shaping the future of traffic.
+We, therefore, offer an inclusive forum for interdisciplinary exchange among academia, industry, 
+and policymakers on current and emerging topics in this domain.
 
-**Note:** Participants are invited to submit a *position paper* or an abstract for a *lightning talk* before the workshop. See [Participate](./Participate) for more details.
+We will facilitate dialogue, foster collaboration, and potentially inspire new value streams
+by incorporating perspectives from user experience (UX), psychology, product design, and legislative frameworks.
+Ultimately, we will forge new interdisciplinary networks to make communication among all road users more inclusive.
+
+**Note:** Participants are invited to submit a *position paper*, an abstract for a *lightning talk*, or a suggestion
+for an *interactive activity* before the workshop. See [Participate](./Participate) for more details.
 
 ---
 
@@ -27,21 +36,26 @@ The aim is to create new interdisciplinary networks and collaborations to make f
     <img src="https://flagcdn.com/32x24/de.png" width="32" height="24" alt="Deutsch" />
 
     <p>
-    Die Verkehrswende führt zu einer laufenden Modernisierung des gesamten Verkehrs.
-    Dadurch ist ein erhöhtes Aufkommen von automatisierten Fahrzeugen (AVs) zu erwarten.
-    Diese müssen ihre Intentionen an andere Verkehrsteilnehmer kommunizieren, wofür im Bereich Maschine-zu-Mensch-Kommunikation (V2H) der Einsatz von externen Mensch-Maschine-Schnittstellen (eHMIs) als adäquate Lösung scheint.
+    Durch die Verkehrswende ist ein erhöhtes Aufkommen von automatisierten Fahrzeugen (AVs) zu erwarten.
+    Potenziell werden hierfür Lösungen für multidirektionale Kommunikationswege benotigt, um das sichere Zusammenspiel von AVs und anderen Verkehrsteilnehmern, wie PKWs, LKWs, Fußgänger, Radfahrer, Verkehrsinfrastruktur und weiterer Entitäten, zu ermöglichen.
     </p>
     
     <p>
-    Obwohl die Forschung im Automotive-Bereich sehr schnell fortschreitet, ist die Inklusion von Menschen mit Einschränkungen (PSN) im gesamten Bereich unterrepräsentiert.
-    In einer alternden Gesellschaft, befördert durch den demografischen Wandel und Fortschritten im medizinischen Sektor und mit wachsendem Bewusstsein für Inklusion und Barrierefreiheit, müssen die Bedürfnisse dieser Gruppen auch im Automotive-Bereich betrachtet werden.
+    AVs nüssen nicht nur ihre Absichten mitteilen, sondern auch verschiedene Signale empfangen und interpretieren können.
+    Die Modalitäten können hierbei visuell, akustisch oder vie Datenverbindung sein.
+    Um dieser Komplexität gerecht zu werden, müssen AVs fortschrittliche Technologien wirsam einsetzen. 
+    Hierzu zählen u.A. Musterekennung, Datenharmonisierung und KI-getriebene Lösungen.
+    </p>
+
+    <p>
+    Obwohl die Forschung im Automotive-Bereich sehr schnell fortschreitet, ist die Inklusion von Menschen mit Einschränkungen (PSN) im gesamten Bereich unterrepräsentiert. In einer alternden Gesellschaft, befördert durch den demografischen Wandel und Fortschritten im medizinischen Sektor und mit wachsendem Bewusstsein für Inklusion und Barrierefreiheit, müssen die Bedürfnisse dieser Gruppen auch im Automotive-Bereich betrachtet werden.
+    Wir stellen eine inklusive Plattform bereit, mit der wir einen interdisziplinären Austausch aktueller und  zukünftiger Themen ermöglichen wollen, nicht nur für die akademische Welt, sondern im speziellen auch für Industrie und Politik.
     </p>
     
     <p>
-    Wir stellen eine inklusive Plattform bereit, mit der wir einen interdisziplinären Austausch aktueller und zukünftiger Themen ermöglichen wollen, nicht nur für die akademische Welt, sondern im speziellen auch für Industrie und Politik.
-    Damit wollen wir verschiedene Perspektiven auf die speziellen (aber nicht ausschließlichen) Themen User Experience (UX) und Psychologie, Produkt Design und rechtliche Faktoren eröffnen, dadurch Kommunikationskanäle öffnen und potenziell neue Themenbereiche erschließen.
+    Damit wollen wir verschiedene Perspektiven auf die speziellen (aber nicht ausschließlichen) Themen User Experience (UX) und Psychologie, Produkt Design und rechtliche Faktoren eröffnen, dadurch Kommunikationskanäle öffnen und potenzielle neue Themenbereiche erschließen.
     Das zentrale Ziel ist die Erschließung interdisziplinärer Netzwerke und Kollaborationen, um zukünftige Entwicklungen der Fahrzeug-Mensch-Kommunikation (V2H) inklusiver zu gestalten.
     </p>
     
-    <p><strong>Anmerkung:</strong> Alle Teilnehmer sind eingeladen ein <em>Position Paper</em> oder ein Abstract für einen <em>Lightning Talk</em> bereits vor dem Workshop einzusenden. Details hierzu unter <a href="./Participate">Participate</a>.</p>
+    <p><strong>Anmerkung:</strong> Alle Teilnehmer sind eingeladen ein <em>Position Paper</em>, ein Abstract für einen <em>Lightning Talk</em>, oder einen Vorschlag für eine <em>Interaktive Aktivität</em> bereits vor dem Workshop einzusenden. Details hierzu unter <a href="./Participate">Participate</a>.</p>
 </div>
