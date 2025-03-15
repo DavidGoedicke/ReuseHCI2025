@@ -5,10 +5,9 @@ classes: wide
 sidebar:
 - title: "Deadlines"
 - text: "<ul>
-  <li><b>Late Submissions via Email</b>:<br /> July 29th</li>
-  <li><s>Submissions</s>:<br/> June 21th</li>
-  <li><s>Notifications</s>:<br/> July 1st</li>
-  <li>Camera-Ready Versions:<br/>July 8th</li>
+  <li>Submissions:<br/> June 10th</li>
+  <li>Notifications:<br/> July 8st</li>
+  <li>Camera-Ready Versions:<br/>July 29th</li>
   <li>Workshop Schedule: see <a href='./Schedule'>Schedule</a></li></ul>"
 ---
 
