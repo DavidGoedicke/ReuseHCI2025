@@ -24,8 +24,7 @@ interactive technologies for blind or deaf people, people with reduced mobility 
 > In short: Everyone is Welcome!
 
 ## Participation
-Late submissions will be reviewer by the workshop chairs and planned into the schedule.
-They will <em>not</em> be published in the conference proceedings, but online on this website, with its workshop results.
+Submissions will be collected and published in the workshop proceedings on [arXiv](https://arxiv.org/).
 
 You have three options for participation:
 * Submit a position paper
