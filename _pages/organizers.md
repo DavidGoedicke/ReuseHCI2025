@@ -4,7 +4,7 @@ title: "Organizers"
 classes: wide
 ---
 
-*Mathias Haimerl*,  (main contact) is a PhD candidate at the Technische Hochschule Ingolstadt (THI). His research looks into inclusion aspects of eHMIs, where he focuses on multidirectional interaction technologies for people with intellectual disabilities. *Contact: mathias.haimerl@<span style="display:none;">thisisnotpartofthedomain-</span>thi.<span style="display:none;">thisnoteither-</span>de*
+***Mathias Haimerl***,  (main contact) is a PhD candidate at the Technische Hochschule Ingolstadt (THI). His research looks into inclusion aspects of eHMIs, where he focuses on multidirectional interaction technologies for people with intellectual disabilities. *Contact: mathias.haimerl@<span style="display:none;">thisisnotpartofthedomain-</span>thi.<span style="display:none;">thisnoteither-</span>de*
 
 **Pascal Jansen** is a PhD candidate at Ulm University at the Institute of Media Informatics. His research investigates the intersection of computational modeling, human-vehicle interaction, and inclusive design processes, emphasizing the optimization of user interfaces tailored to diverse user needs, abilities, and preferences. *Contact: pascal.jansen@@<span style="display:none;">thisisnotpartofthedomain-</span>uni-ulm.<span style="display:none;">thisnoteither-</span>de*
 

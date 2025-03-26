@@ -25,10 +25,10 @@ plugins:
 
 author:
   bio: >-
-    **A**ccessible **A**utomated **A**utomotive **W**orkshop **S**eries – Focus **E**xternal **H**uman-**M**achine **I**nterfaces.
+    **A**ccessible **A**utomated **A**utomotive **W**orkshop **S**eries – **A**ccessibility **i**n **M**obility.
     *In conjunction with [MuC 2025](https://muc2025.mensch-und-computer.de/de/)*
 
-announcement: "[Call for Contributions open **NOW**!]https://muc2025.mensch-und-computer.de/de/cfp-de/){: .align--left .btn .btn--info .btn--large }"
+announcement: "[Call for Contributions open **NOW**!](https://easychair.org/my/conference?conf=a3wsaim){: .align--left .btn .btn--info .btn--large }"
 
 footer:
   links:

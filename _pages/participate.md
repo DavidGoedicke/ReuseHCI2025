@@ -4,7 +4,8 @@ title: "Participate"
 classes: wide
 sidebar:
 - title: "Deadlines"
-- text: "<ul>
+- text: '<ul>
+  <li><a href="https://easychair.org/my/conference?conf=a3wsaim" target="_blank">EasyChair</a></li>
   <li>Submissions:<br/> June 10th</li>
   <li>Notifications:<br/> July 8st</li>
   <li>Camera-Ready Versions:<br/>July 29th</li>
@@ -23,6 +24,7 @@ interactive technologies for blind or deaf people, people with reduced mobility 
 > In short: Everyone is Welcome!
 
 ## Participation
+All submissions should be submitted via [EasyChair](https://easychair.org/my/conference?conf=a3wsaim).
 Submissions will be collected and published in the workshop proceedings on [arXiv](https://arxiv.org/).
 
 You have three options for participation:

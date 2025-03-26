@@ -11,8 +11,6 @@ This may be updated before the workshop.
 
 ## Location
 
-[//]: # (The workshop will be held at the "Altes Hauptgebäude" of the TU Darmstadt (S1|03) in room "015".)
-
 Please check the conference website for the latest information: [muc2025.mensch-und-computer.de](https://muc2025.mensch-und-computer.de/)
 
 <!-- {% include gallery caption="Examples for the interactive parts of the workshop: collecting ideas using digital sticky notes in Miro (left) and the result of a quick prototype (right)." %} -->
