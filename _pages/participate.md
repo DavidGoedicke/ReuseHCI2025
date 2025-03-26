@@ -9,7 +9,7 @@ sidebar:
   <li>Submissions:<br/> June 10th</li>
   <li>Notifications:<br/> July 8st</li>
   <li>Camera-Ready Versions:<br/>July 29th</li>
-  <li>Workshop Schedule: see <a href='./Schedule'>Schedule</a></li></ul>"
+  <li>Workshop Schedule: see <a href="./Schedule">Schedule</a></li></ul>'
 ---
 
 This workshop invites people from different cultures, backgrounds, and affiliations to explore the interplay of automated vehicles and other road users.
