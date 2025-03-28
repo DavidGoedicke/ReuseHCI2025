@@ -24,7 +24,7 @@ interactive technologies for blind or deaf people, people with reduced mobility 
 > In short: Everyone is Welcome!
 
 ## Participation
-All submissions should be submitted via [EasyChair](https://easychair.org/my/conference?conf=a3wsaim).
+All submissions should be submitted via [EasyChair](https://easychair.org/cfp/A3WS-AIM).
 Submissions will be collected and published in the workshop proceedings on [arXiv](https://arxiv.org/).
 
 You have three options for participation:
