@@ -6,6 +6,7 @@ sidebar:
 - title: "Deadlines"
 - text: '<ul>
   <li><a href="https://easychair.org/my/conference?conf=a3wsaim" target="_blank">EasyChair</a></li>
+  <li><s>Submissions:<br/> June 10th</s></li>
   <li>Submissions:<br/> June 10th</li>
   <li>Notifications:<br/> July 8st</li>
   <li>Camera-Ready Versions:<br/>July 29th</li>
