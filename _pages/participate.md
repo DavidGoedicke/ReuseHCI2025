@@ -7,7 +7,7 @@ sidebar:
 - text: '<ul>
   <li><a href="https://easychair.org/my/conference?conf=a3wsaim" target="_blank">EasyChair</a></li>
   <li><s>Submissions:<br/> June 10th</s></li>
-  <li>Submissions:<br/> June 10th</li>
+  <li>Submissions:<br/> June 28th</li>
   <li>Notifications:<br/> July 8st</li>
   <li>Camera-Ready Versions:<br/>July 29th</li>
   <li>Workshop Schedule: see <a href="./Schedule">Schedule</a></li></ul>'
