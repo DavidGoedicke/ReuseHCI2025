@@ -35,7 +35,7 @@ You have three options for participation:
 
 Please register for the workshop via the [Mensch und Computer 2025 Conftool](https://www.conftool.com/muc2025/).
 1. After registration, you must validate your e-mail address and are provided with a password.
-2. Scroll down and select **MCI-WS09 - Accessible Automated Automotive Workshop Series (A3WS): Focus External Human-Machine Interfaces (eHMIs)**.
+2. Scroll down and select **MCI-WS02 - Accessible Automated Automotive Workshop Series (A3WS): Accessibility in Mobility (AiM)**.
 3. You will be guided through the process.
   
 ## Contribution Submission
