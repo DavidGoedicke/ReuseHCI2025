@@ -22,7 +22,8 @@ sidebar:
     </tbody>
 </table>"
 ---
-This may be updated before the workshop. 
+
+> You can find the collected outcome [here](https://miro.com/app/board/uXjVJOTPvIw=/).
 {: .align--left .notice--warning  }
 
 ## Location
