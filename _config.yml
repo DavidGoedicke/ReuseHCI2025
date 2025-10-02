@@ -3,7 +3,7 @@ title: A3WS – Accessibility in Mobility
 email: "mathias.haimerl@thi.de"
 description: "Accessible Automated Automotive Workshop Series (A3WS) – Accessibility in Mobility."
 
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 minimal_mistakes_skin: contrast
 search: true
 baseurl: /MuC2025
